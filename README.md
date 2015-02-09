@@ -1,4 +1,4 @@
-# Spring Boot Scala "Hello controller world in spring boot scala"!!
+# Spring Boot Scala Hello world!!
 
 # How to run
 	gradle build
