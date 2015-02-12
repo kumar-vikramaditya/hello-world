@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5c9e048-ca0a-4758-a9af-9b1e674f6dae" name="Default" comment="">
-      <change type="DELETED" beforePath="E:\college study\Spring'15\CMPE-273\Labs\Lab1\hello-world-scala\build\classes\main\hello\Greeting.class" afterPath="" />
-      <change type="DELETED" beforePath="E:\college study\Spring'15\CMPE-273\Labs\Lab1\hello-world-scala\gradle\wrapper\gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="E:\college study\Spring'15\CMPE-273\Labs\Lab1\hello-world-scala\gradle\wrapper\gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="E:\college study\Spring'15\CMPE-273\Labs\Lab1\hello-world-scala\src\main\scala\hello\Greeting.scala" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/hello/GreetingController.class" afterPath="$PROJECT_DIR$/build/classes/main/hello/GreetingController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/hello/GreetingController.scala" afterPath="$PROJECT_DIR$/src/main/scala/hello/GreetingController.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hello-world-scala.iws" />
@@ -841,15 +829,15 @@
       <workItem from="1423430110766" duration="1557000" />
       <workItem from="1423439509050" duration="96000" />
       <workItem from="1423447632791" duration="1014000" />
-      <workItem from="1423502567021" duration="1666000" />
+      <workItem from="1423502567021" duration="2261000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4333000" />
+    <option name="totallyTimeSpent" value="4928000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
